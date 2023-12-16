@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aprajitroshan&label=Profile%20views&color=0e75b6&style=flat" alt="aprajitroshan" /> </p>
 
-- 🔭 I’m currently working on **Cloud based financial analytic app**
+- 🔭 I’m currently working on **Cloud based financial analytic app*
 
 - 📝 I regularly write articles on [https://www.blogger.com/blog/posts/1723555164483534759](https://www.blogger.com/blog/posts/1723555164483534759)
 
